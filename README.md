@@ -65,10 +65,10 @@ To deploy the project to a server, follow these steps)
 [comment]: # (## Contributing)
 
 ## Links
-+ <a href = "https://github.com/chyroshan066/Text-Formatter">Project homepage</a>
++ <a href = "https://github.com/chyroshan066/text-formatter">Project homepage</a>
 + Other Projects:
-  - <a href = "https://github.com/chyroshan066/Notes">Notes App</a>
-  - <a href = "https://github.com/chyroshan066/News-App">News App</a>
+  - <a href = "https://github.com/chyroshan066/notes">Notes App</a>
+  - <a href = "https://github.com/chyroshan066/newsApp">News App</a>
 + <a href = "https://github.com/chyroshan066">Profile</a>
   
 [comment]: # (## Licensing)
